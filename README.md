@@ -38,8 +38,8 @@ pip install torch torchvision
 
 
 ### Example : Stylizing Artwork
-- **Content Image**: `/content/drive/MyDrive/Ethics in AI/content/content10.jpg`
-- **Style Image**: `/content/drive/MyDrive/Ethics in AI/style/69561.jpg`
+- **Content Image**: `path/content//content10.jpg`
+- **Style Image**: `path/style/69561.jpg`
 
 
 ## Conclusion
