@@ -42,11 +42,7 @@ pip install torch torchvision
 - **Content Image**: `/content/drive/MyDrive/Ethics in AI/content/content10.jpg`
 - **Style Image**: `/content/drive/MyDrive/Ethics in AI/style/69561.jpg`
 
-### Example 2: Stylizing Landscape
-- **Content Image**: `/content/drive/MyDrive/Ethics in AI/content/content10.jpg`
-- **Style Image**: `/content/drive/MyDrive/Ethics in AI/style/style10.jpg`
-
-### Example 3: Stylizing Characters
+### Example 2: Stylizing Characters
 - **Content Image**: `/content/drive/MyDrive/Ethics in AI/content/spiderman.jpg`
 - **Style Image**: `/content/drive/MyDrive/Ethics in AI/style/style13.jpg`
 
