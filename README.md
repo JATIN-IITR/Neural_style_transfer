@@ -36,15 +36,11 @@ pip install torch torchvision
 3. **Run NST Process**: Execute the Neural Style Transfer process using the defined functions.
 4. **Visualize Results**: View the original content image, style image, and the stylized output.
 
-## Examples
 
-### Example 1: Stylizing Artwork
+### Example : Stylizing Artwork
 - **Content Image**: `/content/drive/MyDrive/Ethics in AI/content/content10.jpg`
 - **Style Image**: `/content/drive/MyDrive/Ethics in AI/style/69561.jpg`
 
-### Example 2: Stylizing Characters
-- **Content Image**: `/content/drive/MyDrive/Ethics in AI/content/spiderman.jpg`
-- **Style Image**: `/content/drive/MyDrive/Ethics in AI/style/style13.jpg`
 
 ## Conclusion
 
